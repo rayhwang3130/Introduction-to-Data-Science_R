@@ -2,14 +2,14 @@
 
 Created by. Woo Hyun Hwang
 
-| Syntax | Becoms |
+| Syntax | Becomes |
 | --- | --- |
 | Plain text | Plain text |
 | (End line with 2 spaces to start a new paragraph) | End line with 2 spaces to start a new paragraph |
-| *italics* or _italics_ | italics |
-| **bold** or __bold__ | bold |
+| `*italics* or _italics_` | italics |
+| `**bold** or __bold__` | bold |
 | superscript^2^ | $superscript^2$ |
-| ~~strikethrough~~ | strikethrough |
+| `~~strikethrough~~` | ~~strikethrough~~  |
 | [link] (www.rstudio.com) | http://www.rstudio.com |
 | # Header 1 | Header type 1 |
 | ## Header 2 | Header type 2 |
@@ -17,13 +17,13 @@ Created by. Woo Hyun Hwang
 | #### Header 4 | Header type 4 |
 | ##### Header 5 | Header type 5 |
 | ###### Header 6 | Header type 6 |
-| ellipsis : … | ellipsis : … (점점점) |
-| inline equation : $A = \pi*r^{2}$ | inline equation : $A = \pi*r^{2}$ |
-| image : ![] (path/to/image.png) | image : (selected image) |
+| `ellipsis : …` | ellipsis : … (점점점) |
+| `inline equation : $A = \pi*r^{2}$` | inline equation : $A = \pi*r^{2}$ |
+| `image : ![] (path/to/image.png)` | image : (selected image) |
 | slide break : 
 *** | slide break : (구분선)
 _______________________________________ |
-| > block quote | || block quote (인용구) |
+| `> block quote` | || block quote (인용구) |
 | * unordered list
 * item 2
      + sub-item 1
