@@ -21,10 +21,11 @@ Created by. Woo Hyun Hwang
 | `inline equation : $A = \pi*r^{2}$` | inline equation : $A = \pi*r^{2}$ |
 | `image : ![] (path/to/image.png)` | image : (selected image) |
 | slide break : 
-*** | slide break : (구분선)
+*** | slide break : (구분선) |
 _______________________________________ |
 | `> block quote` | || block quote (인용구) |
-| * unordered list
+
+* unordered list
 * item 2
      + sub-item 1
      + sub-item 2 | - unordered list
